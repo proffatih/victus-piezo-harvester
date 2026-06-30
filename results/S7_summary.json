@@ -1,0 +1,11 @@
+{
+  "forcing_f0": 0.1,
+  "zeta": 0.01,
+  "chi": 0.05,
+  "kappa": 0.5,
+  "alpha": 0.05,
+  "linear_bandwidth_Omega": 0.02,
+  "bistable_bandwidth_Omega": 0.5430379746835443,
+  "bandwidth_gain_x": 27.151898734177216,
+  "max_norm_power_bistable": 0.15183104519050536
+}

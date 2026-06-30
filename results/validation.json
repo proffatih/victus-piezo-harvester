@@ -1,0 +1,16 @@
+{
+  "benchmark": "Erturk & Inman (2008) unimorph PZT-5A, JVA 130 041002",
+  "composite_YI_Nm2": 0.09784715532286214,
+  "mass_per_length_kg_m": 0.13405,
+  "Cp_nF": 79.65,
+  "f_sc_model_Hz": 47.80562444847686,
+  "f_sc_benchmark_Hz": 47.8,
+  "f_sc_rel_error_pct": 0.011766628612689322,
+  "f_oc_model_Hz": 51.92780898591023,
+  "closed_form_single_mode_relerr": 2.2988220986465152e-15,
+  "three_mode_vs_one_mode_relerr": 0.006101880823496706,
+  "optimal_R_ohm": 4403.881419004319,
+  "peak_power_at_1g_mW": 27.828914729893025,
+  "matched_impedance_R_ohm": 41797.985991043555,
+  "resonance_Hz": 47.80562444847686
+}

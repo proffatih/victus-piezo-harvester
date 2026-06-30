@@ -1,0 +1,15 @@
+{
+  "optimal_R_ohm_scres": 4403.881419004319,
+  "peak_power_1g_mW_scres": 27.842447030602468,
+  "resonance_sc_Hz": 47.80995248812203,
+  "optimal_R_ohm_ocres": 311279.6180705332,
+  "peak_power_1g_mW_ocres": 27.132588371706973,
+  "resonance_oc_Hz": 51.93098274568642,
+  "tipmass_max_power_mW": 35.38703618346542,
+  "linear_halfpower_bandwidth_Hz": 3.235294117647065,
+  "bistable_halfpower_bandwidth_Hz": 0.0,
+  "bandwidth_gain_x": 0.0,
+  "tipmass_at_max_power_g": 1.5,
+  "baseline_power_mW": 27.842447030602468,
+  "tipmass_power_gain_x": 1.2709743559741882
+}
